@@ -234,11 +234,7 @@ public class MovieAddDemo implements ActionListener {
                 return;
             }
 
-            float time;
-
             try {
-
-                time = Float.parseFloat(length);
 
             } catch (Exception ee) {
 
